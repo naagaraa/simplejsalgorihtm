@@ -1,5 +1,5 @@
 {
-  "name": "algorithm",
+  "name": "@nagara/algorithm",
   "version": "1.0.0",
   "description": "",
   "main": "dist",
@@ -10,6 +10,10 @@
     "preversion": "npm test",
     "prepublishOnly": "npm run build",
     "postinstall": "node lib/postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naagaraa/simplejsalgorihtm.git"
   },
   "keywords": [],
   "author": "",
@@ -24,5 +28,6 @@
     "last 1 version",
     "Firefox ESR",
     "not dead"
-  ]
+  ],
+  "homepage": "https://github.com/naagaraa/simplejsalgorihtm"
 }
